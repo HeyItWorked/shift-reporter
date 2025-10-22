@@ -51,7 +51,7 @@ Shift Reporter automates this workflow:
 5. **Provides** quick access to vital contacts with on-call awareness
 6. **Tracks** training certifications and compliance status
 
-**Time savings:** ~10 minutes per shift = 250 hours/year for 3 shifts
+**Time savings:** ~10 minutes per shift = 250 hours/year for 3 shifts  
 **Error reduction:** Eliminates manual counting and data entry mistakes
 
 ---
